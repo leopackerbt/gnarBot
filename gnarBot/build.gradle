@@ -20,6 +20,6 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile 'net.dv8tion:JDA:3.5.0_329'
     // https://mvnrepository.com/artifact/com.github.oshi/oshi-core
-    compile 'com.github.oshi:oshi-core:3.4.3'
+    compile 'com.github.oshi:oshi-core:4.6.1'
 
 }
