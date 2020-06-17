@@ -1,4 +1,4 @@
-# gnarBot v0.3.1
+# gnarBot v0.4.1
 
 Chatbot de monitoramento para Discord, utiliza as bibliotecas Oshi, jHardware e dv8tion.
 
