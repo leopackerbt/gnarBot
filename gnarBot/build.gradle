@@ -21,5 +21,8 @@ dependencies {
     compile 'net.dv8tion:JDA:3.5.0_329'
     // https://mvnrepository.com/artifact/com.github.oshi/oshi-core
     compile 'com.github.oshi:oshi-core:4.6.1'
+    // https://mvnrepository.com/artifact/com.profesorfalken/jSensors
+    compile group: 'com.profesorfalken', name: 'jSensors', version: '2.2.1'
+
 
 }

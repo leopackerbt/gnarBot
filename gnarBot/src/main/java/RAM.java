@@ -47,8 +47,9 @@ public class RAM {
     public String getUtilizavel(){
         return FormatUtil.formatBytes(ram.getTotal()).replaceAll("i", "");
     }
-    public Double getDisponivel() {
-        return (ram.getTotal() - ram.getAvailable() / calculo);
+
+    public String getDisponivel() {
+        return String.format("%.1f GB",(ram.getTotal() - ram.getAvailable()) / calculo);
     }
 
     public String getClockSpeed() {
