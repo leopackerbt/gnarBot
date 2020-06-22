@@ -1,4 +1,4 @@
-# gnarBot v0.4.1
+# gnarBot v0.5-alpha
 
 Chatbot de monitoramento para Discord, utiliza as bibliotecas Oshi, jHardware e dv8tion.
 
@@ -12,3 +12,4 @@ Chatbot de monitoramento para Discord, utiliza as bibliotecas Oshi, jHardware e 
 - Gnar pode ser desligado e ligado com comandos;
 - Gnar consegue entender algumas abreviações e gírias;
 - Gnar pode responder várias mensagens diferentes em diversos horários do dia (várias possibilidades diferentes para cada horário);
+- !infos para trazer informações sobre um hardware;
