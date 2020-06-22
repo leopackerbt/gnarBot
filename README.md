@@ -12,4 +12,10 @@ Chatbot de monitoramento para Discord, utiliza as bibliotecas Oshi, jHardware e 
 - Gnar pode ser desligado e ligado com comandos;
 - Gnar consegue entender algumas abreviações e gírias;
 - Gnar pode responder várias mensagens diferentes em diversos horários do dia (várias possibilidades diferentes para cada horário);
+
+# Comandos:
 - !infos para trazer informações sobre um hardware;
+- !monitorar para iniciar o monitoramento de um hardware;
+- !comandos para listar os comandos;
+- !ligar para ligar o Bot;
+- !desligar para desabilitar todas as funções (só irá funcionar o !ligar).
